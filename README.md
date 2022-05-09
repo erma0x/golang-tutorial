@@ -1,4 +1,8 @@
 # Golang tutorial
+
+# activate go env
+source /etc/profile
+
 # Shell
 
 ```bash
